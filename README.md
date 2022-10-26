@@ -5,11 +5,12 @@
 
 ## About
 
-this is an expert system application to diagnose 'whatever you want' disease with 2 methods that can be used:
+this is an expert system application to diagnose disease with 2 methods that can be used:
 
 -   cosine similarity - [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity).
--   forward chaining
-    before it can be used you are required to add disease data and symptom data, then you can create dummy data using a seeder.
+-   forward chaining.
+
+before it can be used you are required to add disease data and symptom data, then you can create dummy data using a seeder.
 
 ## How to use?
 
